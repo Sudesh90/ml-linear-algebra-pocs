@@ -44,3 +44,4 @@ print(int_numbers);
 print('print max element',numbers.max());
 print('print max element',int_numbers.min());
 
+for i in int_numbers : print (i);
